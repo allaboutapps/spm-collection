@@ -1,0 +1,30 @@
+{
+    "name": "Packages by all about apps",
+    "overview": "This collection contains all Swift packages by all about apps",
+    "keywords": [
+        "allaboutapps"
+    ],
+    "packages": [
+        {
+            "url": "https://github.com/allaboutapps/Fetch.git"
+        },
+        {
+            "url": "https://github.com/allaboutapps/SimpleButton.git"
+        },
+        {
+            "url": "https://github.com/allaboutapps/StatefulViewController.git"
+        },
+        {
+            "url": "https://github.com/allaboutapps/DataSource.git"
+        },
+        {
+            "url": "https://github.com/allaboutapps/Toolbox.git"
+        },
+        {
+            "url": "https://github.com/allaboutapps/Logbook.git"
+        }
+    ],
+    "author": {
+        "name": "all about apps"
+    }
+}
